@@ -121,7 +121,7 @@ def main():
             x, y, theta = robot.position_actuel(x,y,theta, x_dot, y_dot, theta_dot, dt)
             
             #Applying a disturbance to the system
-              # Introduire une perturbation toutes les 10 itérations
+              # Introduction of perturbations every 10 iterations
             if i % 10 == 0:
                 x += np.random.uniform(-0.1, 0.1)  # Perturbation sur x
                 y += np.random.uniform(-0.1, 0.1)  # Perturbation sur y
