@@ -8,13 +8,13 @@ which are the sliding mode controller and a proportional controller.
 
 Execute the sliding_mode_controller.py script
     
-     ` python sliding_mode_controller.py `
+     ` python sliding_mode_controller.py 
 
 ## To use the proportional controller:
 
 Execute the proportional_controller.py script
         
-      ` python proportional_controller.py `
+      ` python proportional_controller.py 
 
 # ROS IMPLEMENTATION
 
@@ -30,4 +30,4 @@ To run either of the controllers use the command
 
 ``` rosrun trajectory sliding_mode.py 
     rosrun trajectory proportional_controller.py 
-    rosrun trajectory target.py ```
+    rosrun trajectory target.py 
