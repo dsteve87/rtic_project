@@ -23,7 +23,7 @@ of this controllers.
 
 ## Note : This package must be used inside a catkin_workspace 
 ## You may also need to clone the following repository 
-   [https://github.com/ROBOTIS-GIT/turtlebot3.git]  
+   [ https://github.com/ROBOTIS-GIT/turtlebot3.git ]  
    to get informations about the turtlebot3
 
 To run either of the controllers use the command 
