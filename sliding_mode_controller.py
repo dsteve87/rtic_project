@@ -228,7 +228,7 @@ def main():
         plt.axis("equal")
 
 
-        # Graphique des erreurs de suivi
+        # Graph of errors
         plt.subplot(1, 2, 2)
         plt.plot(time_steps, erro_distance_list, label="distance error", color="blue")
         plt.plot(time_steps, error_orientation_list, label="orientation error", color="orange")
