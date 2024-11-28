@@ -1,4 +1,4 @@
-# rtic_project
+# Real Time Imaging and control 
 Differential drive robot control
 
 In this repository you will find an implementation of two main controllers 
