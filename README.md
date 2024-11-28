@@ -13,8 +13,8 @@ Execute the sliding_mode_controller.py script
 ## To use the proportional controller:
 
 Execute the proportional_controller.py script
-      `  
-      python proportional_controller.py 
+        
+      `python proportional_controller.py 
 
 # ROS IMPLEMENTATION
 
