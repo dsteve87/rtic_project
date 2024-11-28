@@ -28,6 +28,6 @@ of this controllers.
 
 To run either of the controllers use the command 
 
-\ `rosrun trajectory sliding_mode.py `
-\ `rosrun trajectory proportional_controller.py `
-\ `rosrun trajectory target.py  `
+``` rosrun trajectory sliding_mode.py 
+    rosrun trajectory proportional_controller.py 
+    rosrun trajectory target.py ```
