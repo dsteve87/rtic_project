@@ -13,8 +13,8 @@ Execute the sliding_mode_controller.py script
 ## To use the proportional controller:
 
 Execute the proportional_controller.py script
-        
-      ` python proportional_controller.py 
+      `  
+      python proportional_controller.py 
 
 # ROS IMPLEMENTATION
 
@@ -27,7 +27,7 @@ of this controllers.
    to get informations about the turtlebot3
 
 To run either of the controllers use the command 
-
-``` rosrun trajectory sliding_mode.py 
+```
+    rosrun trajectory sliding_mode.py 
     rosrun trajectory proportional_controller.py 
     rosrun trajectory target.py 
